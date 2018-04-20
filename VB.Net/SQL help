@@ -1,0 +1,5 @@
+//a.	Show the code necessary to access the value of the FirstName and Commission fields 
+  for the current record associated with the data reader (whatever the current record happens 
+  to be when the code executes).  Store the FirstName in a variable named xyz, and store the Commission 
+  in the Comm property of an object named r.  Make sure that your program does not crash when a NULL value is
+  retrieved from the database. 
